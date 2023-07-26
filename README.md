@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vivek meghani
 - 👀 I’m interested in...devloping & learning.
-- 🌱 I’m currently learning...C#,java and os-linux.
-- 💞️ I’m looking to collaborate with...speciall persone.
+- 💞️ I’m looking to collaborate with...special persone.
 - 📫 How to reach me...through msg on any social media.
 
 <!---
